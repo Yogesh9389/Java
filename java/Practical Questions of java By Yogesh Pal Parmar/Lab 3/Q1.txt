@@ -1,0 +1,8 @@
+1. create a Class named Animal which includes method like eat() and sleep(). Create a child class of animal named as Bird and override the parent class methods. Bird class also have a method named as fly(). Create an instance of animal class and invoke the eat and sleep method of this object. Create an instance of bird class and invoke eat sleep and fly method.
+2. create a class person wtih a member variable id and name of string type save it in a file called Person.java. Create a class called employee that will inherit the person class the other data member of the employee class are anual salary double, year the employee started work int, and moble number. Your class should have the necessary constructors and gette setter methods. Create anohter class called test_employee contaning main method to fully test your class defination.	
+
+
+
+
+//Implicet import  - "*" import itself every thing
+//Explicit import - "Scanner" we are telling compiler to import on;y Scanner class inside util package.
