@@ -1,0 +1,1 @@
+1. wap to calculate cyclic sum of a number. The number should be entered using scanner class.
